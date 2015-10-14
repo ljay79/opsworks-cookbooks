@@ -7,4 +7,4 @@ Following cookbooks are a copy of hacked/fixed versions from the original [AWS o
 - deploy
 - mysql
 
-cookbook "simple-php" is an custom cookbook for the "Simple PHP App" example(https://github.com/ljay79/simple-app)
+Cookbook "simple-php" is an custom cookbook for the "Simple PHP App" example (https://github.com/ljay79/simple-app)
